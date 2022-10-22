@@ -383,6 +383,10 @@ section {
   height: 400px;
 }
 
+#col-lg-4 aos-innit aos-animate {
+  margin-right: 300px;
+}
+
 /*--------------------------------------------------------------
 # Facts
 --------------------------------------------------------------*/
@@ -437,8 +441,17 @@ section {
 /*--------------------------------------------------------------
 # Akills
 --------------------------------------------------------------*/
+
+.progress {
+  display: flexbox;
+  justify-content: center;
+}
+
+/* .skills {
+} */
+
 .skills .progress {
-  height: 60px;
+  height: 40px;
   display: block;
   background: none;
   border-radius: 0;
