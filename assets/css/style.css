@@ -501,6 +501,14 @@ section {
 }
 
 .skills {
+  background-color: white;
+}
+
+.about {
+  background-color: #f5f8fd;
+}
+
+.contact {
   background-color: #f5f8fd;
 }
 
@@ -703,6 +711,11 @@ section {
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
+.description-text {
+  font-style: italic;
+  font-size: 14px;
+}
+
 .portfolio-details {
   padding-top: 40px;
 }
