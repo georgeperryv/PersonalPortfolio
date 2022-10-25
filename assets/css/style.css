@@ -600,22 +600,7 @@ section {
   border: 2px solid #1f5297;
 }
 
-/*--------------------------------------------------------------
-# Portfolio
---------------------------------------------------------------*/
-#grid {
-  display: grid;
-}
-
-.description-text {
-  margin-top: 50px;
-  font-style: italic;
-  font-size: 14px;
-}
-
-.portfolio {
-  background-color: white;
-}
+/* Portfolio */
 
 .portfolio .portfolio-item {
   margin-bottom: 30px;
